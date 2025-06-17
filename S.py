@@ -9,7 +9,7 @@ AUTHORIZED_USER_ID = 7660776851      # <-- apna Telegram ID daalo
 CHAT_ID = -1002176107287            # <-- group ka ID daalo
 
 # --- Globals ---
-job = None
+job = None 
 message_cycle = None
 
 # --- Command Handlers ---
